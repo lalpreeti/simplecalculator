@@ -1,4 +1,4 @@
-# Simple Calculator:
+# GitHub Repository Description: Simple Calculator:
 
 # Introduction:
 This GitHub repository contains the source code for a Simple Calculator, a web-based tool that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator's user interface is straightforward, making it easy for users to perform calculations.
