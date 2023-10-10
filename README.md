@@ -9,9 +9,9 @@ It provides a simple and intuitive interface for performing basic mathematical o
 Users can input two values and choose the operation they want to perform by clicking the corresponding button.
 
 # Key Features:
-Arithmetic Operations: The calculator supports four primary arithmetic operations: addition, subtraction, multiplication, and division.
-Responsive Design: The user interface is designed to adapt to different screen sizes, ensuring a consistent experience on both desktop and mobile devices.
-Reset Function: Users can reset the calculator to clear input values and the result.
+1. Arithmetic Operations: The calculator supports four primary arithmetic operations: addition, subtraction, multiplication, and division.
+2. Responsive Design: The user interface is designed to adapt to different screen sizes, ensuring a consistent experience on both desktop and mobile devices.
+3. Reset Function: Users can reset the calculator to clear input values and the result.
 
 # Source Code Overview:
 The source code consists of HTML, CSS, and JavaScript files.
